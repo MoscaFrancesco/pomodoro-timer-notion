@@ -7,12 +7,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-color: white;
+    background-color: #2f2f2f;
+    border-radius:15%;
 }
 
 .clock-numbers {
     font-size: 80px;
     margin: 20px 0px;
     font-weight: bold;
-    color: #37352f;
+    color: #FFF;
 }
